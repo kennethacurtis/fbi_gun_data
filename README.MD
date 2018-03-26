@@ -1,10 +1,8 @@
-# Exploring Bike-share Data
+## Investigating NICS Firearm Background Checks with FBI Gun Data
 
 ## Project Purpose:
 
 Analyze a dataset and then communicate my findings using Python libraries such as NumPy, pandas, and Matplotlib
-
-## Investigating NICS Firearm Background Checks with FBI Gun Data
 
 [View the project here](file:///C:/Users/kster.DESKTOP-8ROQVFD/Downloads/investigate_gundata_final.html#conclusions)
 
