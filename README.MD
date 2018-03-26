@@ -4,7 +4,7 @@
 
 Analyze a dataset and then communicate my findings using Python libraries such as NumPy, pandas, and Matplotlib
 
-[View the project here](file:///C:/Users/kster.DESKTOP-8ROQVFD/Downloads/investigate_gundata_final.html#conclusions)
+<a href='https://kennethacurtis.github.io/fbi_gun_data/'>View the project here</a>
 
 # Conclusions
 
